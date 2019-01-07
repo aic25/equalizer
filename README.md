@@ -1,3 +1,3 @@
 # Equalizer
 
-Simulation fo LMS DFE.
+Simulation of LMS DFE.
